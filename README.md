@@ -10,4 +10,4 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Deployed
 
-https://kkaisan.github.io/tech-blog/
+https://quiet-caverns-10424.herokuapp.com/
